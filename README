@@ -1,0 +1,24 @@
+# Quantum X Chat 🔬🧠
+
+Quantum X Chat is a Streamlit-based chatbot that interacts with a Quantum X model, allowing users to ask quantum computing-related questions and execute quantum scripts.
+
+## Features
+- **Conversational AI**: Communicates with a Quantum X endpoint.
+- **Quantum Script Execution**: Executes Cirq-based quantum scripts via an API.
+- **Session Persistence**: Saves and loads conversations for later reference.
+- **Streamlit UI**: User-friendly chat interface with sidebar controls.
+
+## Requirements
+
+- Python 3.8+
+- Internet connection for API requests
+- A running Quantum X backend at endpoint
+
+
+
+## Installation
+
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/OneNessQBX/quantum-X-chat.git
+   cd quantum-X-chat
