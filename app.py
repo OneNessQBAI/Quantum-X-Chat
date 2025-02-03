@@ -123,7 +123,7 @@ class QuantumAIChatApp:
         
         # API Key Input
         api_key = st.sidebar.text_input(
-            "Enter API Key 🔑",
+            "Enter API Key 🔑www.QuantumIntelligence.ca",
             type="password",
             value=st.session_state.get('api_key', ''),
             help="Your API key should start with 'oneness_'"
